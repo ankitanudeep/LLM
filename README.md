@@ -8,8 +8,8 @@ This repository contains example **Python code snippets** that demonstrate how t
 
 ## Contents
 
-- `openai_examples/` — Working with OpenAI's GPT models
-- `ollama_examples/` — Calling local models via Ollama
+- `openai/` — Working with OpenAI's GPT models
+- `ollama/` — Calling local models via Ollama
 - `utils/` — Common helper functions and tokenizers
 - `notebooks/` — Jupyter notebooks for quick experimentation
 
