@@ -193,7 +193,7 @@ demo = gr.Interface(
         gr.Textbox(label="Company Name", placeholder="e.g., HuggingFace"),
         gr.Textbox(label="Company Website URL", placeholder="e.g., https://huggingface.co")
     ],
-    outputs=gr.Markdown(label="📄 Streaming Brochure"),
+    outputs=gr.Markdown(label="Streaming Brochure"),
     title="AI-Powered Company Brochure Generator",
     description="Enter a company name and its website. This tool scrapes the content and uses an LLM to generate a streaming brochure.",
     allow_flagging="never"
