@@ -1,0 +1,7 @@
+ollama
+pillow
+requests
+beautifulsoup4
+ipython
+markdown
+gradio
