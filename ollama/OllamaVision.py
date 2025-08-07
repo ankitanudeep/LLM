@@ -1,5 +1,4 @@
 '''
-Ankit Anudeep
 Ollama Vision Chat Application
 This application allows users to upload an image and ask questions about it using the Ollama Vision model
 '''

@@ -1,5 +1,4 @@
 '''
-Ankit Anudeep
 ollama/webscraper.py
 This module provides functionality to scrape company websites and generate brochures using the Ollama LLM.
 '''

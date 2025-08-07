@@ -1,5 +1,4 @@
 '''
-Ankit Anudeep
 Ollama Chat Application
 OllamaChat.py - A simple GUI application to interact with the Ollama chat model.
 This application allows users to input questions and receive answers from the Ollama model.'''

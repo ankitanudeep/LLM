@@ -1,5 +1,4 @@
 '''
-# Ankit Anudeep
 # openai/websitesummarizer.py
 # This module provides functionality to scrape company websites and generate summaries using OpenAI's LLM.
 # It uses the OpenAI API to summarize the content of a webpage in markdown format.

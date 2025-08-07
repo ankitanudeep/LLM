@@ -35,5 +35,5 @@ Each example is designed to be simple, clean, and easy to run — perfect for le
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ankitanudeep/LLM.git
+git clone https://github.com/codetechdevx/LLM.git
 cd openai
