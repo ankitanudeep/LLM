@@ -18,5 +18,4 @@ This repository contains example **Python code snippets** that demonstrate how t
 Clone the repo:
 
 ```bash
-git clone https://github.com/ankitanudeep/LLM.git
-
+git clone https://github.com/codetechdevx/LLM.git
